@@ -1,2 +1,2 @@
-# materializCSS
+# materializeCSS
 CREATING PROJECTS USING MATERIALIZE CSS
